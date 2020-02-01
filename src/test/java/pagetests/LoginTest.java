@@ -6,8 +6,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -20,8 +18,6 @@ public class LoginTest extends CommonApi{
     public void topImage() {
     	
     	WebElement ele = driver.findElement(By.xpath("//div[@id='heroimage_img']"));
-    	//WebDriverWait wait = new WebDriverWait(driver, 30);
-    	//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//img[@id='bannerImg_1f6d95f2-8f5a-4213-828d-c526957caa78']")));
     	System.out.println(ele.getText());
     	Assert.assertTrue(ele.isDisplayed());
     }
@@ -101,12 +97,7 @@ public class LoginTest extends CommonApi{
 	@Test
 	public void toolTipLink() {
 		List<WebElement> links = driver.findElements(By.xpath("//ul[@class='social-icon-list horizontal-list']/li/a"));
-		String actualIndex0 = links.get(0).getText();
-		String actualIndex1 = links.get(0).getText();
-		String actualIndex2 = links.get(0).getText();
-		String actualIndex3 = links.get(0).getText();
-		String actualIndex4 = links.get(0).getText();
-		
+		String actualIndex0 = links.get(0).getText();	
 		System.out.println("First Tool Tip: " + actualIndex0);
 		
 		for(WebElement alllinks: links) {
