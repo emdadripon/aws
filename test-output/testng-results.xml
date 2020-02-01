@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="177030" started-at="2020-02-01T17:30:12 EST" finished-at="2020-02-01T17:33:09 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="177030" started-at="2020-02-01T17:30:12 EST" finished-at="2020-02-01T17:33:09 EST">
+      <class name="pagetests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="10396" started-at="2020-02-01T17:30:12 EST" finished-at="2020-02-01T17:30:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="OurOrganigationLinks()[pri:0, instance:pagetests.LoginTest@7494e528]" name="OurOrganigationLinks" duration-ms="346" started-at="2020-02-01T17:30:22 EST" finished-at="2020-02-01T17:30:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OurOrganigationLinks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2266" started-at="2020-02-01T17:30:22 EST" finished-at="2020-02-01T17:30:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="14206" started-at="2020-02-01T17:30:25 EST" finished-at="2020-02-01T17:30:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findCareLink()[pri:0, instance:pagetests.LoginTest@7494e528]" name="findCareLink" duration-ms="149" started-at="2020-02-01T17:30:39 EST" finished-at="2020-02-01T17:30:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCareLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2197" started-at="2020-02-01T17:30:39 EST" finished-at="2020-02-01T17:30:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="7351" started-at="2020-02-01T17:30:41 EST" finished-at="2020-02-01T17:30:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="loginToApp" duration-ms="611" started-at="2020-02-01T17:30:48 EST" finished-at="2020-02-01T17:30:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2097" started-at="2020-02-01T17:30:49 EST" finished-at="2020-02-01T17:30:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="7105" started-at="2020-02-01T17:30:51 EST" finished-at="2020-02-01T17:30:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="toolTip()[pri:0, instance:pagetests.LoginTest@7494e528]" name="toolTip" duration-ms="173" started-at="2020-02-01T17:30:58 EST" finished-at="2020-02-01T17:30:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolTip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="66394" started-at="2020-02-01T17:30:58 EST" finished-at="2020-02-01T17:32:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="10585" started-at="2020-02-01T17:32:05 EST" finished-at="2020-02-01T17:32:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="toolTipLink()[pri:0, instance:pagetests.LoginTest@7494e528]" name="toolTipLink" duration-ms="276" started-at="2020-02-01T17:32:15 EST" finished-at="2020-02-01T17:32:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolTipLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2420" started-at="2020-02-01T17:32:16 EST" finished-at="2020-02-01T17:32:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="7217" started-at="2020-02-01T17:32:18 EST" finished-at="2020-02-01T17:32:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyImage()[pri:0, instance:pagetests.LoginTest@7494e528]" name="verifyImage" duration-ms="74" started-at="2020-02-01T17:32:25 EST" finished-at="2020-02-01T17:32:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="6182" started-at="2020-02-01T17:32:25 EST" finished-at="2020-02-01T17:32:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="6510" started-at="2020-02-01T17:32:32 EST" finished-at="2020-02-01T17:32:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyText()[pri:0, instance:pagetests.LoginTest@7494e528]" name="verifyText" duration-ms="31" started-at="2020-02-01T17:32:38 EST" finished-at="2020-02-01T17:32:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2066" started-at="2020-02-01T17:32:38 EST" finished-at="2020-02-01T17:32:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="6902" started-at="2020-02-01T17:32:40 EST" finished-at="2020-02-01T17:32:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="topImage()[pri:1, instance:pagetests.LoginTest@7494e528]" name="topImage" duration-ms="81" started-at="2020-02-01T17:32:47 EST" description="Verify top Image" finished-at="2020-02-01T17:32:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topImage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2030" started-at="2020-02-01T17:32:47 EST" finished-at="2020-02-01T17:32:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="7270" started-at="2020-02-01T17:32:49 EST" finished-at="2020-02-01T17:32:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hiroImageHeadLine()[pri:2, instance:pagetests.LoginTest@7494e528]" name="hiroImageHeadLine" duration-ms="59" started-at="2020-02-01T17:32:57 EST" description="Verify top headline" finished-at="2020-02-01T17:32:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiroImageHeadLine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2083" started-at="2020-02-01T17:32:57 EST" finished-at="2020-02-01T17:32:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pagetests.LoginTest@7494e528]" name="setUp" is-config="true" duration-ms="7191" started-at="2020-02-01T17:32:59 EST" finished-at="2020-02-01T17:33:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="subHeading()[pri:3, instance:pagetests.LoginTest@7494e528]" name="subHeading" duration-ms="207" started-at="2020-02-01T17:33:06 EST" finished-at="2020-02-01T17:33:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subHeading -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pagetests.LoginTest@7494e528]" name="tearDown" is-config="true" duration-ms="2461" started-at="2020-02-01T17:33:06 EST" finished-at="2020-02-01T17:33:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pagetests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
